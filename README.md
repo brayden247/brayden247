@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brayden247&label=Profile%20views&color=0e75b6&style=flat" alt="brayden247" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brayden247" alt="brayden247" /></a> </p>
-
 - 🔭 I’m currently working on **Finishing my second year of study (2/4)**
 
 - 📫 How to reach me **brayden.b645@gmail.com**
