@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brayden247&label=Profile%20views&color=0e75b6&style=flat" alt="brayden247" /> </p>
 
-- 🔭 I’m currently working on **Finishing my second year of study (2/4)**
+- 🔭 I’m currently working on **Finishing my second year of study (3/4)**
 
 - 📫 How to reach me **brayden.b645@gmail.com**
 
